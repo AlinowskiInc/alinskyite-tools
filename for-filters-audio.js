@@ -1,4 +1,4 @@
-const {Alinskyite, Upload, EffectsAudio} = require("./.."); 
+const {Alinskyite, Upload, EffectsAudio} = require("."); 
 
 const filters = require("./filters-audio");
 
