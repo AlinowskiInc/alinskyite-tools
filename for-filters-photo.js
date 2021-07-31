@@ -1,4 +1,4 @@
-const {Alinskyite, EffectsPhoto} = require("./..");
+const {Alinskyite, EffectsPhoto} = require(".");
 const fs = require("fs");
 
 const filters = require("./filters");
