@@ -1,0 +1,40 @@
+module.exports = [
+    [
+        "lutParse",
+        { index: Math.floor(Math.random() * 33) }
+    ], 
+    [ 
+        "liquidFilter"
+    ], 
+    [
+        "filterRGBShift"
+    ], 
+    [
+        "filterVideoGlitch"
+    ], 
+    [
+        "filterSurroundBlur",
+    ], 
+    [
+        "filterPixelize"
+    ], 
+    [
+        "filterCrystallize"
+    ], 
+    [
+        "filterPolarBlur"
+    ], 
+    [
+        "filterShadowHighLight"
+    ], 
+    [
+        "filterEdge"
+    ], 
+    [
+        "filterStylizator",
+        { index: Math.floor(Math.random() * 4000) }
+    ], 
+    [
+        "filterColorizer"
+    ]
+];
