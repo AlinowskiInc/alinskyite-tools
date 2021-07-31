@@ -1,0 +1,21 @@
+{
+    "name": "alinskyite-tools",
+    "version": "1.0.0",
+    "description": "Alinskyite API ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "api"
+    ],
+    "author": "Vlad",
+    "license": "ISC",
+    "dependencies": {
+      "@types/node": "^16.4.2",
+      "inspectable": "^1.2.0",
+      "node-fetch": "^2.6.1",
+      "path": "^0.12.7"
+    },
+    "typings": "index.d.ts"
+  }
